@@ -6,7 +6,7 @@ import random
 from skimage import io
 import cv2
 
-API_TOKEN = '825739067:AAHoBF8ti8FqcCfmtTjlyuPY9Idvt9NS4EA'
+API_TOKEN = 'your_bot_token_here'
 list  = ["Канон","Не канон"]
 bot = telebot.TeleBot(API_TOKEN)
 
